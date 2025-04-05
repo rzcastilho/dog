@@ -1,5 +1,5 @@
 // Package dog provides functions to dealing with dogs
-package main
+package dog
 
 import (
 	"strings"

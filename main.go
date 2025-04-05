@@ -1,8 +1,7 @@
 // Package dog provides functions to dealing with dogs
-package dog
+package main
 
 import (
-	"fmt"
 	"strings"
 )
 
